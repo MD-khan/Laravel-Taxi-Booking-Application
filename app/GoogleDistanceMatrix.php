@@ -5,7 +5,7 @@ namespace App;
 */
 class GoogleDistanceMatrix 
 {
-	protected $key = "AIzaSyCNS9gMJXEnOPPr6RLHkoTFIVDzJSd5z5A";
+	protected $key = "#";
 	public $origin;
 	public $destination;
 	public $unit;
