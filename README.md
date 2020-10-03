@@ -4,7 +4,7 @@ This car booking  web application creates a storefront (and backend) for passang
 #Features: 
 - Calculate the distance and fare based on the destination address
 - Show passangers cars and price
-- let them seleckt and booked
+- let them select and booked
 - Instante email notification
 - Stripe API 
 -Google MAPs API
